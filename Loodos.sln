@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loodos", "Loodos\Loodos.csproj", "{12DF2956-5DAF-4AFA-8610-6FE552901A21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F37E85C6-E320-41EB-8669-3D9165E53F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{93CF8565-66B7-4431-995F-7C47D0F14D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{12DF2956-5DAF-4AFA-8610-6FE552901A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12DF2956-5DAF-4AFA-8610-6FE552901A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12DF2956-5DAF-4AFA-8610-6FE552901A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37E85C6-E320-41EB-8669-3D9165E53F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37E85C6-E320-41EB-8669-3D9165E53F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37E85C6-E320-41EB-8669-3D9165E53F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37E85C6-E320-41EB-8669-3D9165E53F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CF8565-66B7-4431-995F-7C47D0F14D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CF8565-66B7-4431-995F-7C47D0F14D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CF8565-66B7-4431-995F-7C47D0F14D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CF8565-66B7-4431-995F-7C47D0F14D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,38 @@
+﻿/*Layout Sayfası*/
+body{
+    background-color:lightgray !important;
+}
+
+.navbar{
+    border-bottom:#1886c7 2px solid;
+
+}
+
+.navbar-brand{
+    color:#1886c7 !important;
+    font-size:24pX;
+}
+
+.bg-dark{
+    background-color:rgba(0,0,0,.7) !important;
+}
+
+.navbarblog{
+    border:2px #1886c7 solid  !important;
+   color: #1886c7;
+}
+
+.navbarblog:hover{
+    border:2px #1886c7 solid  !important;
+   color: white;
+}
+
+
+
+.panelyazi{
+    
+    background-color:rgba(0,0,0,.7) !important;
+    color:white;
+    font-size:22px;   
+}
+
