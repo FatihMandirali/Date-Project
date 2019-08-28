@@ -9,7 +9,7 @@ using Loodos.Models;
 namespace Loodos.Controllers
 {
     public class HomeController : Controller
-    {
+    {//Example
         public IActionResult Index()
         {
             return View();
